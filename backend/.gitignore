@@ -1,0 +1,7 @@
+backend/venv/
+backend/myenv/
+backend/.env
+node_modules/
+dist/
+.vscode/
+.env
